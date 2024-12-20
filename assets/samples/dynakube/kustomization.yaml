@@ -1,3 +1,0 @@
-resources:
-  - v1beta2/classicFullStack.yaml
-# +kubebuilder:scaffold:manifestskustomizesamples
