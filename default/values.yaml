@@ -21,8 +21,8 @@ image: ""
 #image description using tags
 #resulting image will be named <repository>:v<tag>
 imageRef:
-  repository: "" #path to repo
-  tag: "" #defaults to chart version
+  repository: "dynatrace/dynatrace-operator" #path to repo
+  tag: "v1.5.0" #defaults to chart version
 
 customPullSecret: ""
 installCRD: true
