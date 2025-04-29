@@ -22,7 +22,7 @@ image: ""
 #resulting image will be named <repository>:v<tag>
 imageRef:
   repository: "dynatrace/dynatrace-operator" #path to repo
-  tag: "v1.4.0" #defaults to chart version
+  tag: "v1.5.0" #defaults to chart version
 
 customPullSecret: ""
 installCRD: true
